@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/OpenSauceOne-Black.ttf",
+      "sha1": "d88c4c0e6da4aacc792338e23e9e2c479a66fa64"
+    },
+    {
+      "path": "assets/fonts/OpenSauceOne-ExtraBoldItalic.ttf",
+      "sha1": "82ba503367eb3ff3e94135d223ad126483287bc4"
+    },
+    {
+      "path": "assets/fonts/index.js",
+      "sha1": "f1912a625021ea213aff7fb95d6e4218c24594af"
+    }
+  ]
+}
